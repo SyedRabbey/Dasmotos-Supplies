@@ -8,5 +8,9 @@ CSS was heavily utilized to keep the project simple and allow for reoccuring fea
 -------
 Since the client demanded the use of different color banners per item, I had to use ID's to give each banner unique CSS code. 
 -------
-The biggest issue was having to make 3 separate banner ID's. In the future, I hope to simplify this process by turning the ID into a class and figuring out a way to 
-change just the color. 
+**The biggest issue was having to make 3 separate banner ID's. 
+In the future, I hope to simplify this process by turning the ID into a class and figuring out a way to 
+change just the color.
+To bring down word count in the CSS, I could have listed all the properties under a list of h1, h2, h3, and p - since they all contain the same properties.
+**
+
