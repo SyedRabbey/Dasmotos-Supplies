@@ -1,0 +1,47 @@
+.main_banner {
+    background-image: url(https://tinyurl.com/35za322z);
+    color:khaki;
+    font-family: Helvetica;
+    font-size: 100px;
+    text-align: center;
+}
+
+.paragraph {
+    font-family: Helvetica;
+}
+
+#brushes {
+    color:white;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    color:white;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: lightcoral;
+
+}
+
+#paint {
+    color:white;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: skyblue;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue;
+}
+
+.headings {
+    font-family: Helvetica;
+    font-weight: bold;
+}
